@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\bin\Debug\net8.0-windows\evinha.exe
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\bin\Debug\net8.0-windows\evinha.deps.json
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\bin\Debug\net8.0-windows\evinha.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\bin\Debug\net8.0-windows\evinha.dll
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\bin\Debug\net8.0-windows\evinha.pdb
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.Form1.resources
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.dll
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\refint\evinha.dll
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.pdb
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\evinha.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Evellyn\evinha\evinha\obj\Debug\net8.0-windows\ref\evinha.dll
